@@ -3,4 +3,5 @@ matplotlib
 seaborn
 numpy
 scikit-learn
+lightgbm
 -e .
